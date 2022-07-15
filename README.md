@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dooshh
+- 👋 Hi, I’m @Dooshh/ i came here from Yakov's coursera course in HTML,CSS AND JAVASCRIPT for beginners
 - 👀 I’m interested in coding starting with basic HTML,CSS AND JAVASCRIPT  then advance to SQL AND PYTHON
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on beginer levels of HTML,CSS AND JAVASCRIPT
